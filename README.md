@@ -73,8 +73,8 @@ To interact with the ETL pipeline and visualization components of this project, 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/shahidmalik4/pyspark-snowflake-dbt-pipeline.git
-   cd project_directory
+   git clone https://github.com/shamazhooda/pyspark-snowflake-dbt-pipeline.git
+   cd pyspark-snowflake-dbt-pipeline
    ```
 
 2. **Set Up the Environment**:
